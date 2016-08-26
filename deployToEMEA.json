@@ -1,0 +1,14 @@
+{
+  "memory": "1G",
+  "instances": 1,
+  "services": [
+    {
+      "identifier": "DevDatabaseService",
+      "name": "TestDB",
+      "type": "DBAAS",
+      "username": "employee",
+      "password": "employee"
+    }
+  ],
+  "environment": {}
+}
